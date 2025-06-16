@@ -1,0 +1,4 @@
+streamlit
+mistralai
+python-dotenv
+PyPDF2
