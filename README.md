@@ -12,7 +12,7 @@ A Streamlit-powered AI application that generates intelligent flashcards from up
 
 ## 📽️ Demo
 
-https://youtu.be/2OuDtKNKwrM?si=4fiXbPm8qa6HbjDi
+https://youtu.be/3vt604koQxw?si=QpTjRW5aqHCgiRxt
 
 ---
 
