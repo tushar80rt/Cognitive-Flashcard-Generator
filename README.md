@@ -2,11 +2,17 @@
 
 A Streamlit-powered AI application that generates intelligent flashcards from uploaded PDFs using the Mistral language model. Designed for students, educators, and lifelong learners to quickly revise and retain key concepts.
 
-https://github.com/user-attachments/assets/d7ef5f11-444d-4860-877c-ca521d7eb05b
+<img width="959" alt="intern first view" src="https://github.com/user-attachments/assets/c66f6e60-09f4-4c95-b068-05f49383561c" />
+
+<img width="958" alt="Intern task second" src="https://github.com/user-attachments/assets/3f884fb1-6456-49a4-933f-6f1b5c972a16" />
+
+<img width="959" alt="intern task third" src="https://github.com/user-attachments/assets/7c2eed60-ae38-4e1e-be70-39d90b460dee" />
+
+
 
 ## 📽️ Demo
 
-[![Watch the demo](https://youtu.be/3vt604koQxw?si=j1Clj8uJ-0tSK6U_)
+https://youtu.be/2OuDtKNKwrM?si=4fiXbPm8qa6HbjDi
 
 ---
 
